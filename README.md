@@ -9,34 +9,22 @@ The goal is to build strong fundamentals and document everything I learn in a cl
 
 | Path                            | Status       | Started       | Completed     |
 |---------------------------------|--------------|---------------|---------------|
-| Pre-Security                    | ✅ Completed | 2025-04-10    | 2025-04-20    |
-| Introduction to Cyber Security | ⏳ In Progress | 2025-04-21  | —             |
-| Complete Beginner               | ⏳ Planned   | —             | —             |
-| Jr Penetration Tester           | ⏳ Planned   | —             | —             |
+| Cyber Secutity  101             | In Progress  | 2025-04-20    | 2025    |
 
 ---
 
-## ✅ Completed Rooms & Notes
+## ✅ Completed Modules & Notes
 
 | Room                  | Path                      | Notes Link                                  |
 |-----------------------|---------------------------|----------------------------------------------|
-| Network Fundamentals  | Pre-Security              | [View Notes](Network-Fundamentals/notes.md)  |
-| Introduction to Linux | Pre-Security              | [View Notes](Intro-to-Linux/notes.md)        |
-| Simple CTF            | Introduction to CyberSec  | [Writeup](SimpleCTF/writeup.md)              |
+| Networking            | Cyber Security            | [View Notes]
 
-> 💡 Add more rooms as you complete them.
 
 ---
 
 ## 🛠️ Tools I've Practiced With
 
-- Nmap
-- Wireshark
-- Netcat
-- Burp Suite
-- Hydra
-- Metasploit
-- John the Ripper
+- 
 
 ---
 
@@ -64,4 +52,4 @@ Inside, I include:
 
 You can follow my learning journey here or reach out via [LinkedIn](#) if you'd like to connect or collaborate.
 
-> _"Learning by doing is the only way in cybersecurity."_ 🧠
+
